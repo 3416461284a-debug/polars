@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 表格数据清洗与计算｜Polars
+
+> **一句话看懂：清洗和计算大量表格数据。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 清洗和计算大量表格数据。 |
+| 怎么使用 | 通过Python代码整理、筛选、合并和计算表格数据。 |
+| 适合谁 | 需要反复处理较大数据表的人。 |
+| 主要限制 | 与常用的Pandas写法不同，旧代码需要调整。 |
+| 后续可以怎么改 | 检查类型、日期、空值和计算结果是否一致。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 <h1 align="center">
   <a href="https://pola.rs">
     <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="Polars logo">
@@ -159,3 +184,6 @@ Running into hardware limitations executing your queries? Read how you can
 ## License
 
 Polars is licensed under the [MIT License](LICENSE) (SPDX: `MIT`).
+
+
+</details>
