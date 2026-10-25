@@ -13,7 +13,7 @@
 
 **当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
 
-[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/blob/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_%E8%AF%A6%E7%BB%86%E6%8A%A5%E5%91%8A%E5%92%8C%E6%A0%B8%E9%AA%8C%E8%AE%B0%E5%BD%95/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
 
 中文用途整理日期：2026年10月25日。
 <!-- 中文用途说明：结束 -->
